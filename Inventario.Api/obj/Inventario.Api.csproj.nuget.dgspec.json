@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Satori7\\source\\repos\\Inventario\\Inventario.Api\\Inventario.Api.csproj": {}
+    "C:\\Users\\cgallegos\\Documents\\Satori\\Inventario-CQRS\\Inventario.Api\\Inventario.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Satori7\\source\\repos\\Inventario\\Inventario.Api\\Inventario.Api.csproj": {
+    "C:\\Users\\cgallegos\\Documents\\Satori\\Inventario-CQRS\\Inventario.Api\\Inventario.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Satori7\\source\\repos\\Inventario\\Inventario.Api\\Inventario.Api.csproj",
+        "projectUniqueName": "C:\\Users\\cgallegos\\Documents\\Satori\\Inventario-CQRS\\Inventario.Api\\Inventario.Api.csproj",
         "projectName": "Inventario.Api",
-        "projectPath": "C:\\Users\\Satori7\\source\\repos\\Inventario\\Inventario.Api\\Inventario.Api.csproj",
-        "packagesPath": "C:\\Users\\Satori7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Satori7\\source\\repos\\Inventario\\Inventario.Api\\obj\\",
+        "projectPath": "C:\\Users\\cgallegos\\Documents\\Satori\\Inventario-CQRS\\Inventario.Api\\Inventario.Api.csproj",
+        "packagesPath": "C:\\Users\\cgallegos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cgallegos\\Documents\\Satori\\Inventario-CQRS\\Inventario.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Satori7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cgallegos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -74,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

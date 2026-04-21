@@ -1,1 +1,5 @@
-<Solution />
+<Solution>
+  <Project Path="Inventario.Api/Inventario.Api.csproj" />
+  <Project Path="Inventario.Domain/Inventario.Domain.csproj" Id="efe8ab37-1939-4147-9186-6fd553f348d1" />
+  <Project Path="Inventario.Persistence/Inventario.Persistence.csproj" Id="dcfcbd44-0a5c-40b4-b0d5-9e177fdce5a1" />
+</Solution>

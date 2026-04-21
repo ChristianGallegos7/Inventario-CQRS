@@ -1,0 +1,16 @@
+C:\Users\cgallegos\Documents\Satori\Inventario-CQRS\Inventario.Persistence\bin\Debug\net10.0\Inventario.Persistence.deps.json
+C:\Users\cgallegos\Documents\Satori\Inventario-CQRS\Inventario.Persistence\bin\Debug\net10.0\Inventario.Persistence.dll
+C:\Users\cgallegos\Documents\Satori\Inventario-CQRS\Inventario.Persistence\bin\Debug\net10.0\Inventario.Persistence.pdb
+C:\Users\cgallegos\Documents\Satori\Inventario-CQRS\Inventario.Persistence\bin\Debug\net10.0\Inventario.Domain.dll
+C:\Users\cgallegos\Documents\Satori\Inventario-CQRS\Inventario.Persistence\bin\Debug\net10.0\Inventario.Domain.pdb
+C:\Users\cgallegos\Documents\Satori\Inventario-CQRS\Inventario.Persistence\obj\Debug\net10.0\Inventario.Persistence.csproj.AssemblyReference.cache
+C:\Users\cgallegos\Documents\Satori\Inventario-CQRS\Inventario.Persistence\obj\Debug\net10.0\Inventario.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cgallegos\Documents\Satori\Inventario-CQRS\Inventario.Persistence\obj\Debug\net10.0\Inventario.Persistence.AssemblyInfoInputs.cache
+C:\Users\cgallegos\Documents\Satori\Inventario-CQRS\Inventario.Persistence\obj\Debug\net10.0\Inventario.Persistence.AssemblyInfo.cs
+C:\Users\cgallegos\Documents\Satori\Inventario-CQRS\Inventario.Persistence\obj\Debug\net10.0\Inventario.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\cgallegos\Documents\Satori\Inventario-CQRS\Inventario.Persistence\obj\Debug\net10.0\Inventario.Persistence.sourcelink.json
+C:\Users\cgallegos\Documents\Satori\Inventario-CQRS\Inventario.Persistence\obj\Debug\net10.0\Inventar.07FAA172.Up2Date
+C:\Users\cgallegos\Documents\Satori\Inventario-CQRS\Inventario.Persistence\obj\Debug\net10.0\Inventario.Persistence.dll
+C:\Users\cgallegos\Documents\Satori\Inventario-CQRS\Inventario.Persistence\obj\Debug\net10.0\refint\Inventario.Persistence.dll
+C:\Users\cgallegos\Documents\Satori\Inventario-CQRS\Inventario.Persistence\obj\Debug\net10.0\Inventario.Persistence.pdb
+C:\Users\cgallegos\Documents\Satori\Inventario-CQRS\Inventario.Persistence\obj\Debug\net10.0\ref\Inventario.Persistence.dll
