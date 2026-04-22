@@ -1,8 +1,7 @@
 ﻿namespace Inventario.Domain
 {
-    public class Producto
+    public class Producto : BaseEntity
     {
-        public Guid Id { get; set; }
 
         public string Nombre { get; set; } = string.Empty;
 
@@ -21,8 +20,8 @@
         public Guid CategoriaId { get; set; }
 
         public Categoria? Categoria { get; set; }
-
-        public DateTime FechaCreacion { get; set; } = DateTime.Now;
+    
+        public virtual ICollection<Foto>? Fotos { get; set; } = new List<Foto>();
 
     }
 }
